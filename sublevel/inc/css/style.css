@@ -1,0 +1,44 @@
+
+html {
+	position: relative;
+	height: auto;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #f8f8f8;
+    text-align: center;
+}
+footer {
+	line-height: 30px;
+}
+.form-head {
+	text-align: center;
+}
+.bienvenu {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.value {
+	color: red;
+}
+.voir-plus {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.adm a {
+	display: block;
+}
+.adm h4{
+	display: inline-block;
+
+}
+.adm {
+	text-align: center;
+}
+.adm a button {
+	display: block;
+	width: 100%;
+}
